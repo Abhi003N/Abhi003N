@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Abhi003N
-- 👀 I’m interested in fun stuff
-- 🌱 I’m currently learning java and dsa
+-🌱 I’m currently learning java and dsa
 -
 
 <!---
