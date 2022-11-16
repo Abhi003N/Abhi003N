@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Abhi003N
 -🌱 I’m currently learning java and dsa
+-  I have knowledge about Python and Data Science.
+-  I am a good team leader and player as well.
 -
 
 <!---
